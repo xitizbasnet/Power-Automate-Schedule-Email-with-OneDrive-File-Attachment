@@ -72,13 +72,6 @@ Once the flow is created, a **Recurrence** trigger appears automatically.
 
 ---
 
-
-![Descriptive Alt Text](images/step1-login.png)
-
-![Picture1](https://github.com/user-attachments/assets/9cd63ba7-7479-4b96-ab81-4b14979157b9)
-
-
-
 ### 7. Completion and Verification
 - After success, you’ll see a green **checkmark** next to your flow on the dashboard.
 
